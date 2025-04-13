@@ -1,0 +1,3 @@
+/home/vboxuser/kernel_project/007_platform_driver/platform_device_driver.ko
+/home/vboxuser/kernel_project/007_platform_driver/platform_device_driver.o
+
